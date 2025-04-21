@@ -13,12 +13,12 @@
 
 ---
 
-## 🚀 Projetos de Destaque em desenvolvimento:
-- 🔧 [Projeto Faculdade XYZ](https://github.com/Leeontr/PHPSQLHTMLtrabalho.git)
+🚀 Projetos de Destaque em desenvolvimento:
+-  [Projeto Faculdade XYZ](https://github.com/Leeontr/PHPSQLHTMLtrabalho.git)
 
 ---
 
-## ✨ Tecnologias:
+✨ Tecnologias:
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" alt="HTML5" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leeontr&show_icons=true&theme=tokyonight" />
@@ -42,10 +42,13 @@
 
 ---
 
-## 📫 Tenho interesse em uma conversa. Entre em contato:
+📫 INTERESSE EM UMA CONVERSA? ENTRE EM CONTATO:
 
 [![LinkedIn](https://img.shields.io/badge/-Leon%20Trigo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-trigo-informatica)
 
 ---
 
-⭐️ Obrigado, Sigo Estudando!
+⭐️🧠
+Sou um entusiasta da tecnologia e apaixonado por resolver problemas do mundo real com código. Ao longo da faculdade, mergulhei em projetos práticos, especialmente focados em PHP, MySQL e desenvolvimento web full stack.  
+Fora do código, curto estudar inglês, espanhol e aprender com a comunidade dev e tomar um bom café programando!
+
