@@ -32,6 +32,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leeontr&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeontr&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 Tenho interesse em uma conversa. Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/-Leon%20Trigo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-trigo-informatica)
