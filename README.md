@@ -6,8 +6,8 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - Último Ano <br>
-💻 Apaixonado por análise, dados e resolução de problemas web! <br>
-🎯 Foco atual: JAVA, PHP, Banco de Dados <br>
+💻 Apaixonado por análise, dados e resolução de problemas! <br>
+🎯 Foco atual: Python, IA, Automoção <br>
 🌱 Sempre buscando o melhor...
 </p>
 
