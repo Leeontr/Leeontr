@@ -5,30 +5,32 @@
 <h1 align="center">👋 Leon Trigo - Developer</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - Último Ano <br>
-💻 Apaixonado por análise, dados e resolução de problemas! <br>
-🎯 Foco atual: Python, IA, Automoção <br>
-🌱 Sempre buscando o melhor...
+🎓 Cursando Análise e Desenvolvimento de Sistemas - Último Ano <br>
+💻 Analista de sistemas! Identifico, classifico, reúno informações, concerto e melhóro. <br>
+🎯 Foco atual: Resolução e implementação de melhorias e automações em processos, sistemas(ERP/CRM/Kanbans) ou em metologias.  <br>
+🌱 Buscar melhorar nos move para frente, solucionar problemas nos aproxima de novos problemas e novos problemas nos mostra como crescemos.
 </p>
 
 ---
 
-🚀 Projetos de Destaque em desenvolvimento:
--  [Projeto Faculdade XYZ](https://github.com/Leeontr/PHPSQLHTMLtrabalho.git)
+🚀 Projetos de Destaque em Experiencias profissionais:
+-  Acompanhando levantamento, troca, implementação e aprendizagem de novo ERP na empresa.
+-  Atendimento de chamados voltado a Sistemas como SAP, Ploomes, Pipefy, TOTVs(Protheus)
+-  Automações e coleta de informações com SQL no SQL Server.
+-  Levantamento de informações para construção de Funis para empresas.
 
 ---
 
 ✨ Tecnologias:
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="70" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="70" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="70" alt="SAP ERP" />
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="70" alt="n8n" />
 </p>
+
 
 ---
 
@@ -49,6 +51,6 @@
 ---
 
 ⭐️🧠
-Sou um entusiasta da tecnologia e apaixonado por resolver problemas do mundo real com código. Ao longo da faculdade, mergulhei em projetos práticos, especialmente focados em PHP, MySQL e desenvolvimento web full stack.  
-Fora do código, curto estudar inglês, espanhol e aprender com a comunidade dev e tomar um bom café programando!
+Vou buscar resolver seus problemas, vou analisar e buscar melhorias, buscar pontos importantes e dores gritantes e então automatizalas ou facilitalas.
+Análise de Sistemas exige conhecer processos e metodologias, e as vezes esses processos não existem e precisam ser criados! Processo é Cultura e Cultura move empresas.
 
