@@ -28,22 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="70" alt="SAP ERP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="70" alt="SAP ERP" />
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="70" alt="n8n" />
 </p>
 
 
----
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leeontr&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeontr&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
 
 ---
+
 
 📫 INTERESSE EM UMA CONVERSA? ENTRE EM CONTATO:
 
