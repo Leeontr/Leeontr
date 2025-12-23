@@ -7,7 +7,7 @@
 <p align="center">
 🎓 Cursando Análise e Desenvolvimento de Sistemas - Último Ano <br>
 💻 Analista de sistemas! Identifico, classifico, reúno informações, concerto e melhóro. <br>
-🎯 Foco atual: Resolução e implementação de melhorias e automações em processos, sistemas(ERP/CRM/Kanbans) ou em metologias.  <br>
+🎯 Foco atual: Resolução e implementação de melhorias e automações em processos, metologias e sistemas(ERP/CRM/Kanbans).  <br>
 🌱 Buscar melhorar nos move para frente, solucionar problemas nos aproxima de novos problemas e novos problemas nos mostra como crescemos.
 </p>
 
