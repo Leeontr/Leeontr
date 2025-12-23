@@ -18,6 +18,7 @@
 -  Atendimento de chamados voltado a Sistemas como SAP, Ploomes, Pipefy, TOTVs(Protheus)
 -  Automações e coleta de informações com SQL no SQL Server.
 -  Levantamento de informações para construção de Funis para empresas.
+-  N8N usado em projeto de estágio integrado com Saas criado via Loveble.
 
 ---
 
