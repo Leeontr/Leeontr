@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">👋 Leon Trigo - Developer</h1>
+<h1 align="center">👋 Leon Trigo - Analista de Sistemas e Processos</h1>
 
 <p align="center">
 🎓 Cursando Análise e Desenvolvimento de Sistemas - Último Ano <br>
