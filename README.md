@@ -6,6 +6,10 @@
 <h3 align="center">Analista de Sistemas e Processos Júnior @ Grupo Akiyama</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leon-tr&label=VISUALIZAÇÕES&color=0077B5&style=for-the-badge" alt="Contador de Views" />
+</p>
+
+<p align="center">
   <i>Identifico, classifico, reúno informações, conserto e melhoro.</i><br>
   🎓 Cursando Análise e Desenvolvimento de Sistemas (Último Ano - 2026)<br>
 </p>
@@ -14,19 +18,18 @@
 
 ### ⚖️ A Tríade da Minha Atuação
 
+<p align="center">
+  <!-- Animação de texto em tempo real (Não quebra e chama muita atenção) -->
+  <a href="https://github.com/Leon-tr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Desenvolvimento+%26+Integrações;Estruturas+de+Dados+%26+SQL;Inteligência+Artificial+%26+Agentes;Automação+de+Processos+com+n8n" alt="Typing SVG" />
+  </a>
+</p>
+
 Meu trabalho funciona no equilíbrio exato entre três pilares fundamentais. Nenhum funciona direito sem os outros dois:
 
 * 💻 **Desenvolvimento & Integração:** Criação de rotas, consumo de APIs REST e construção da lógica de back-end para fazer diferentes sistemas conversarem na mesma língua.
 * 📊 **Estrutura de Dados:** Modelagem, coleta e consolidação de informações complexas. O dado precisa ser bem estruturado (seja em SQL ou JSON) para gerar valor real.
 * 🤖 **Inteligência Artificial:** Aplicação de IA e Agentes autônomos para automatizar fluxos, analisar os dados estruturados e acelerar os processos de negócio.
-
----
-
-### 📈 Estatísticas & Linguagens
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-tr&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" alt="Gráfico de Linguagens do Leon" />
-</p>
 
 ---
 
