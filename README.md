@@ -1,49 +1,59 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="100%" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">👋 Leon Trigo - Analista de Sistemas e Processos</h1>
+<div align="center">
+  <h1>⚡ Leon Trigo | Analista de Sistemas e Processos Júnior</h1>
+  
+  <p>
+    <b>Descomplicando o complexo através de IA, integrações e arquitetura de processos.</b><br><br>
+    🎓 Acadêmico em Análise e Desenvolvimento de Sistemas (Universidade Positivo - 2026)<br>
+    🏆 Certificado como "Protagonista da Evolução" pelo foco em aprendizado contínuo<br>
+    💡 Especialista em transformar gargalos operacionais em fluxos automatizados e escaláveis.
+  </p>
+</div>
 
-<p align="center">
-🎓 Cursando Análise e Desenvolvimento de Sistemas - Último Ano <br>
-💻 Analista de sistemas! Identifico, classifico, reúno informações, concerto e melhóro. <br>
-🎯 Foco atual: Resolução e implementação de melhorias e automações em processos, metologias e sistemas(ERP/CRM/Kanbans).  <br>
-🌱 Buscar melhorar nos move para frente, solucionar problemas nos aproxima de novos problemas e novos problemas nos mostra como crescemos.
-</p>
+<br>
+
+## 🛠️ O Que Eu Construo e Entrego
+
+Em vez de apenas manter sistemas, eu crio ecossistemas. Minha atuação une a visão estratégica de negócios com a execução técnica:
+
+* 🚀 **LicitaFlow | QAP:** Co-criação de um SaaS para automatizar e gerenciar processos de licitações, conectando setores e integrando agentes de Inteligência Artificial.
+* 🥋 **Sistemas de Gestão de Nicho:** Arquitetura e desenvolvimento de SaaS voltado para gestão esportiva (ex: Sapo Grappling Team).
+* 🔄 **Engenharia de Automação:** Orquestração de fluxos complexos utilizando **n8n** integrado com IA (Gemini, OpenAI, Lovable, Manus).
+* 🏢 **Ecossistema Corporativo:** Implantação, suporte e integração de dados pesados entre ERPs (SAP B1) e ferramentas de BPMS/CRM (Pipefy, Ploomes).
+
+<br>
+
+## 💻 Stack Tecnológica & Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+<br>
+
+## 📬 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leon-trigo-informatica">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leontrigo34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
 
 ---
 
-🚀 Projetos de Destaque em Experiencias profissionais:
--  Acompanhando levantamento, troca, implementação e aprendizagem de novo ERP na empresa.
--  Atendimento de chamados voltado a Sistemas como SAP, Ploomes, Pipefy, TOTVs(Protheus)
--  Automações e coleta de informações com SQL no SQL Server.
--  Levantamento de informações para construção de Funis para empresas.
--  N8N usado em projeto de estágio integrado com Saas criado via Loveble.
-
----
-
-✨ Tecnologias:
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="SQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="70" alt="SAP ERP" />
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="70" alt="n8n" />
-</p>
-
-
-
----
-
-
-📫 INTERESSE EM UMA CONVERSA? ENTRE EM CONTATO:
-
-[![LinkedIn](https://img.shields.io/badge/-Leon%20Trigo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-trigo-informatica)
-
----
-
-⭐️🧠
-Vou buscar resolver seus problemas, vou analisar e buscar melhorias, buscar pontos importantes e dores gritantes e então automatizalas ou facilitalas.
-Análise de Sistemas exige conhecer processos e metodologias, e as vezes esses processos não existem e precisam ser criados! Processo é Cultura e Cultura move empresas.
-
+> 💡 **A minha filosofia:**
+> A verdadeira eficiência não está apenas em adotar novas tecnologias, mas em entender a raiz do processo. A automação serve para retirar o peso robótico das costas das pessoas, permitindo que as equipes usem a mente para o que realmente importa: **estratégia, inovação e crescimento**. Se um processo não existe, a gente mapeia; se é lento, a gente automatiza.
