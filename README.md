@@ -22,10 +22,10 @@ Meu trabalho funciona no equilíbrio exato entre três pilares fundamentais. Nen
 
 ---
 
-### 📈 Estatísticas & Linguagens (Visualização em Tempo Real)
+### 📈 Estatísticas & Linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" alt="Gráfico de Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-tr&layout=compact&theme=tokyonight&hide_border=true&title_color=0077B5" alt="Gráfico de Linguagens do Leon" />
 </p>
 
 ---
