@@ -6,24 +6,13 @@
 <h3 align="center">Analista de Sistemas e Processos Júnior @ Grupo Akiyama</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leon-tr&label=VISUALIZAÇÕES&color=0077B5&style=for-the-badge" alt="Contador de Views" />
-</p>
-
-<p align="center">
   <i>Identifico, classifico, reúno informações, conserto e melhoro.</i><br>
-  🎓 Cursando Análise e Desenvolvimento de Sistemas (Último Ano - 2026)<br>
+  🎓 Cursando Análise e Desenvolvimento de Sistemas (Último Ano - 2026)
 </p>
 
 ---
 
 ### ⚖️ A Tríade da Minha Atuação
-
-<p align="center">
-  <!-- Animação de texto em tempo real (Não quebra e chama muita atenção) -->
-  <a href="https://github.com/Leon-tr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Desenvolvimento+%26+Integrações;Estruturas+de+Dados+%26+SQL;Inteligência+Artificial+%26+Agentes;Automação+de+Processos+com+n8n" alt="Typing SVG" />
-  </a>
-</p>
 
 Meu trabalho funciona no equilíbrio exato entre três pilares fundamentais. Nenhum funciona direito sem os outros dois:
 
@@ -33,69 +22,64 @@ Meu trabalho funciona no equilíbrio exato entre três pilares fundamentais. Nen
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas
+### ⚙️ Minha Caixa de Ferramentas & Hard Skills
 
-<details open>
-  <summary><b>💻 Back-end & Arquitetura</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=routing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Métodos_HTTP-20232A?style=for-the-badge&logo=internetexplorer&logoColor=white" />
-</details>
-
-<br>
-
-<details open>
-  <summary><b>📊 Banco de Dados & Modelagem</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/SQL_Server_2022-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modelagem_Lógica/Física-4B5563?style=for-the-badge&logo=databricks&logoColor=white" />
-</details>
-
-<br>
-
-<details open>
-  <summary><b>☁️ Automações & Cloud</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white" />
-  <img src="https://img.shields.io/badge/N4Link-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloudcode-4B5563?style=for-the-badge" />
-</details>
-
-<br>
-
-<details open>
-  <summary><b>🤖 Inteligência Artificial</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentes_IA-10B981?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engenharia_de_Prompts-F59E0B?style=for-the-badge&logo=octopusdeploy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lovable_IA-FF5722?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud_IA-007ACC?style=for-the-badge" />
-</details>
-
-<br>
-
-<details open>
-  <summary><b>⚙️ Ferramentas & Ecossistema Corporativo</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOTVS_Protheus-102A43?style=for-the-badge&logo=totvs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRM_Ploomes-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pipefy-0052CC?style=for-the-badge" />
-</details>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="30%"><b>💻 Back-end & Arquitetura</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=routing&logoColor=white" />
+      <img src="https://img.shields.io/badge/Métodos_HTTP-20232A?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Banco de Dados & Modelagem</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL_Server_2022-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Modelagem_Lógica/Física-4B5563?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Automações & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white" />
+      <img src="https://img.shields.io/badge/N4Link-4B5563?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cloudcode-4B5563?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Inteligência Artificial</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agentes_IA-10B981?style=for-the-badge&logo=probot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Engenharia_de_Prompts-F59E0B?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Lovable_IA-FF5722?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cloud_IA-007ACC?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Ferramentas & Ecossistema</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/SAP_B1-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+      <img src="https://img.shields.io/badge/TOTVS_Protheus-102A43?style=for-the-badge&logo=totvs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/CRM_Ploomes-FF9900?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Pipefy-0052CC?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
