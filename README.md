@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Leon Trigo</h1>
-<h3 align="center">Analista de Sistemas e Processos Júnior @ Grupo Akiyama</h3>
+<h3 align="center">Analista de Sistemas e Processos Júnior</h3>
 
 <p align="center">
   <i>Identifico, classifico, reúno informações, conserto e melhoro.</i><br>
@@ -12,17 +12,31 @@
 
 ---
 
-### ⚖️ A Tríade da Minha Atuação
+<h3 align="center">⚡ A Minha Tríade de Atuação</h3>
 
-Meu trabalho funciona no equilíbrio exato entre três pilares fundamentais. Nenhum funciona direito sem os outros dois:
-
-* 💻 **Desenvolvimento & Integração:** Criação de rotas, consumo de APIs REST e construção da lógica de back-end para fazer diferentes sistemas conversarem na mesma língua.
-* 📊 **Estrutura de Dados:** Modelagem, coleta e consolidação de informações complexas. O dado precisa ser bem estruturado (seja em SQL ou JSON) para gerar valor real.
-* 🤖 **Inteligência Artificial:** Aplicação de IA e Agentes autônomos para automatizar fluxos, analisar os dados estruturados e acelerar os processos de negócio.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33.3%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" /><br>
+      <b>Desenvolvimento & Integração</b><br>
+      <sub>Criação de rotas, consumo de APIs REST e lógica de back-end para integração de ecossistemas.</sub>
+    </td>
+    <td align="center" width="33.3%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" /><br>
+      <b>Estrutura de Dados</b><br>
+      <sub>Modelagem, coleta e consolidação de dados complexos em SQL e JSON para gerar valor real.</sub>
+    </td>
+    <td align="center" width="33.3%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" /><br>
+      <b>Inteligência Artificial</b><br>
+      <sub>Aplicação de IA e Agentes autônomos para automação de fluxos e análise preditiva de negócios.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ Minha Caixa de Ferramentas & Hard Skills
+### ⚙️ Hard Skills & Especialidades
 
 <table align="center" width="100%">
   <tr>
@@ -83,12 +97,12 @@ Meu trabalho funciona no equilíbrio exato entre três pilares fundamentais. Nen
 
 ---
 
-### 🚀 Atuação no Grupo Akiyama
+### 🚀 Experiências e Impacto Profissional
 
-* 🏛️ **LicitaFlow | QAP:** Desenvolvimento de SaaS na empresa integrando áreas através de processos de licitação, utilizando metodologias ágeis conectadas diretamente a agentes de IA.
-* 🔄 **Sistemas & ERPs:** Acompanhamento de levantamento, troca, implementação e aprendizagem de novo ERP na empresa.
-* 🛠️ **Sustentação Operacional:** Atendimento de chamados focados em resolução, melhorias e automações em processos e metodologias conectando SAP, Ploomes, Pipefy e Protheus.
-* 📊 **Gestão da Informação:** Levantamento de dados para construção de funis para empresas e uso intenso de automações com coleta de informações via SQL Server.
+* 🏛️ **LicitaFlow | QAP:** Desenvolvimento de SaaS integrando áreas estratégicas através de processos de licitação, conectando fluxos de trabalho a agentes de IA para otimização de metodologia.
+* 🔄 **Implementação de Sistemas:** Acompanhamento técnico em levantamento de requisitos, migração de dados e implementação de novos ERPs em ambiente corporativo.
+* 🛠️ **Sustentação de Processos:** Resolução de problemas e implementação de automações críticas conectando ferramentas como SAP, Ploomes, Pipefy e Protheus.
+* 📊 **Análise de Dados:** Coleta e consolidação de informações via SQL Server para construção de funis de vendas e indicadores de desempenho empresarial.
 
 ---
 
