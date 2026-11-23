@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Leon Trigo</h1>
-<h3 align="center">Analista de Sistemas e Processos Júnior</h3>
+<h3 align="center">Analista de Sistemas e Processos</h3>
 
 <p align="center">
   <i>Identifico, classifico, reúno informações, conserto e melhoro.</i><br>
